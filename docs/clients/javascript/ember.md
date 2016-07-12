@@ -5,6 +5,8 @@
 
 Ember addon for visual regression testing with [Percy](https://percy.io).
 
+Prefer getting started with a screencast? [Here's the EmberScreencast on ember-percy](https://www.emberscreencasts.com/posts/160).
+
 ## Installation
 
 [!INCLUDE /docs/clients/-do-setup-first]
